@@ -1,0 +1,42 @@
+这个模型在官方0.2版本的基础上进行了一些修改和优化
+
+版本R2
+-机身上把手弹簧的沉孔变浅了1mm，增加把手弹簧的压力，防止耗材驱动轮打滑，增加耗材驱动力
+-缩小了灯丝传感器光电开关的开孔上的倒角，避免之前一定概率出现的误触发
+-滑块上的衬套安装位置加深了，避免安装后法兰高出平面
+
+版本R1 
+日期20250701
+-减小电机蜗杆和齿轮的间距(0.1mm)，延长了齿轮和蜗杆的服役时间
+-缩小了电机固定位置，把电机固定得更紧一点
+-为缓冲滑块增加了一个D2L40MM的导向轴，让缓冲动作更加顺滑减少打印件之间的磨损
+-整体厚度缩短了0.1mm固定在底座上的时候会更容易点
+-增大PCB盖板的螺丝沉孔，防止螺丝头凸出来
+-调整了一些螺丝的孔位，固定螺丝牢固
+-电机出线的孔位加大，更加方便出线和焊接
+-电机附近的孔位增大，有利于电机散热
+-增加了灯丝传感器光电开关的开孔，防止碎屑堵塞造成误判
+-把手转轴的孔壁厚增加
+
+
+This model has been modified and optimized based on the official version 0.2
+Version R2
+Date 11-AUG-2025
+-The countersink for the handle spring on the body has been shallowed by 1mm to increase the spring pressure, prevent the filament drive wheel from slipping, and increase the filament drive force.
+-The chamfer on the opening of the filament sensor photoelectric switch has been reduced to prevent false triggering.
+-The mounting position of the bushing on the buffer slider has been deepened to prevent the flange from protruding above the surface after installation.
+
+
+Version R1
+
+Date 01-JULY-2025
+-Reduce the distance between the motor worm and the gear (0.1mm), and extend the service life of the gears and worm
+-Reduce the motor fixing position and fix the motor tighter
+-Add a D2L40MM guide shaft to the buffer slider to make the buffer action smoother and reduce the wear between the printed parts
+-The overall thickness is shortened by 0.2mm, which will be easier to fix on the base
+-Enlarge the screw countersunk hole of the PCB cover to prevent the screw head from protruding
+-Adjust the hole position of some screws to fix the screws firmly
+-The hole of the motor wire is enlarged, which is more convenient for outlet and soldering
+-The hole near the motor is enlarged, which is conducive to the heat dissipation of the motor
+-Increase the opening of the filament sensor photoelectric switch to prevent debris from clogging and causing misjudgment
+-Increase the wall thickness of the handle shaft

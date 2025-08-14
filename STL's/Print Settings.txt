@@ -1,0 +1,12 @@
+slicer setting
+layer height 	0.2mm  		0.16-0.24mm will works too
+walls 3
+infill density 30%
+
+filament type
+PETG is recommended
+PLA Works but not recommended
+ABS not tested, should work
+Please do not use transparent or translucent filament to print it.
+"BMCU-370C-TL-Buffer-Slider", this part needs a little support
+It is recommended to print a unit first and assemble and test it.
