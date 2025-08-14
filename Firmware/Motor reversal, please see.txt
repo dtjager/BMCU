@@ -1,0 +1,1 @@
+If your motor always rotates in the opposite direction under the current firmware, even if there is nothing wrong with your wiring, please solder the motor wires in reverse before using it, unless this problem is fixed in future firmware (the function of automatically determining the forward and reverse direction is removed).
