@@ -1,3 +1,5 @@
+My collection of resources for my x1c BMCU build. I noticed everything is not necessarily the easiest to find/sort out, so I put things here as I found them.
+
 [BMCU Wiki](https://wiki.yuekai.fr/)
 
 [Subreddit](https://www.reddit.com/r/BMCU/)
